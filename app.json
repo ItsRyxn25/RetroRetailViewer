@@ -1,0 +1,18 @@
+{
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/ItsRyxn25/RetroRetailViewer/blob/master/ViewerBot.py"
+    }
+  ],
+  "env": {
+  },
+  "formation": {
+  },
+  "name": "RetroRetailViewer",
+  "scripts": {
+  },
+  "stack": "heroku-18"
+}
